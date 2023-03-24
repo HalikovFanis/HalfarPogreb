@@ -1,0 +1,7 @@
+# Project exclude paths
+/common-jpa/target/
+/common-rabbitmq/target/
+/common-utils/target/
+/dispatcher/target/
+/node/target/
+/rest-service/target/
