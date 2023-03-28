@@ -97,3 +97,4 @@
 2023-03-24 20:25:10 DEBUG ConsumerServiceImpl:38 - NODE: Photo message is received
 2023-03-24 20:27:19 DEBUG ConsumerServiceImpl:38 - NODE: Photo message is received
 2023-03-24 20:27:44 DEBUG ConsumerServiceImpl:31 - NODE: Doc message is received
+2023-03-25 19:58:35 DEBUG ConsumerServiceImpl:38 - NODE: Photo message is received
